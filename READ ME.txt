@@ -1,0 +1,7 @@
+This repository includes python projects done for CodSoft during an internship.
+
+TASK 1: To-Do list implemented using concepts of OOPs
+TASK 2: A simple calculator
+TASK 3: Random password generator using random library
+TASK 4: Rock ,Paper , Scissor game using random library
+Task 5: Phone Book (Contact management system) 
